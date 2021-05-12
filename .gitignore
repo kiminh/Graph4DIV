@@ -1,0 +1,9 @@
+log/
+__pycache__/
+BertModel/
+data/doc2vec_fold_training_graph/
+data/gcn_dataset/best_rank/
+data/gcn_dataset/div_query.data
+data/gcn_dataset/listpair_train.data
+data/gcn_dataset/doc2vec_test_graph.data
+data/gcn_dataset/intent_coverage.csv
